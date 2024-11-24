@@ -1,0 +1,6 @@
+name: BetterLib
+version: '1.0.0'
+main: com.auroramc.betterlib.BetterLib
+api-version: '1.21'
+authors: [ Saymoan ]
+load: STARTUP
