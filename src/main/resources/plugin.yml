@@ -4,3 +4,6 @@ main: com.auroramc.betterlib.BetterLib
 api-version: '1.21'
 authors: [ Saymoan ]
 load: STARTUP
+softdepend:
+  - PlaceholderAPI
+  - Nexo
